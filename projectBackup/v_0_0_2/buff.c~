@@ -1,0 +1,40 @@
+#include<stdio.h>
+#define max 10
+#include<math.h>
+
+void main ()
+{
+    int i ,j ,k;
+    ___START
+
+    --0,3==
+    for(i =0 ; i <10 ; i ++)
+    {
+        hhh =0 ;
+        --1,2==
+        for(j =0 ; j <10 ; j ++)
+        {
+
+            --2,1==
+            for(k =0 ; k <10 ; k ++)
+                printf ("\nhello\n") ;
+        }
+
+    }
+
+
+    ___START
+
+    --0,6==
+    for(i =0 ; i <fun () ; i ++)
+
+        --1,5==
+        for(j =0 ; j <10 ; j ++)
+
+            --2,4==
+            for(k =0 ; k <10 ; k ++)
+                a ++ ;
+
+
+}
+

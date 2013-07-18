@@ -1,0 +1,15 @@
+#include<stdio.h>
+#define max 10
+#include<math.h>
+
+void main (){
+ int i ,j;
+ 
+ for(i=0;i<10; i++) 
+	for(j=0;j<177;j++) 
+	{
+		k=0;
+		for(k=0,j=1;k<10;k++) 
+			printf("Hello");
+	}
+}
